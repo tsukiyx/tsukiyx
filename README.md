@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Tsukiyx. 👋
 
-<!--
-**tsukiyx/tsukiyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just beginning my adventure in coding and technology, eager to explore, learn, and create. My focus is on growing my skills while working on exciting projects. Join me on this journey as I turn ideas into reality, one line of code at a time! 🚀
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🌍 From: Lima, Peru 🇵🇪  
+- 🌱 **Currently learning:** I am currently learning Vue.js, and deepening the foundations of front-end development.
+- 🤔 **Why I started:** I'm curious about how technology shapes the world and want to contribute to it.  
+- 💡 **My goal:** Build big projects, learn step by step, and connect with others who are also learning.
+- 💻 **My beloveds:** I really enjoy work with NVIM and Vuue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,neovim)](https://skillicons.dev)
+
