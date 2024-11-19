@@ -9,5 +9,5 @@ I'm just beginning my adventure in coding and technology, eager to explore, lear
 - 💡 **My goal:** Build big projects, learn step by step, and connect with others who are also learning.
 - 💻 **My beloveds:** I really enjoy work with NVIM and Vuue.
 
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,js,html,css,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,js,nodejs,html,css,neovim)](https://skillicons.dev)
 
